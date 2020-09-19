@@ -1,14 +1,11 @@
 import React from 'react';
 import './App.css';
-import Header from './components/Header/Index';
-import Home from './pages/Home';
+import Router from './Router';
+
 
 function App() {
   return (
-    <div>
-    <Header />
-    <Home />
-  </div>
+    <Router />
   );
 }
 export default App;
