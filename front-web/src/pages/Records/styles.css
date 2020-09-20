@@ -87,7 +87,7 @@
   
   .filters-container .clean-filters {
     background-color: var(--color-coral);
-    color: #FFF;
+    color: rgba(46, 8, 95, 0.986);
     margin-left: 20px;
   }
   
